@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/Haseeb1604/Haseeb1604/blob/main/wave.gif" width='26px'/>
 
-This is Muhammad Ali, i am a Student of Software Engineering Program at <a href="http://www.cityuniversity.edu.pk/" target="_blank">CUSIT Peshawar</a>. Passionate about Mobile Application development (Android & ios using Flutter) having good problem solving skills and ability to perform well in a team.. 
+This is Muhammad Ali, i am a Student of Software Engineering at <a href="http://www.cityuniversity.edu.pk/" target="_blank">CUSIT Peshawar</a>. Passionate about Mobile Application development (Android & ios using Flutter) having good problem solving skills and ability to perform well in a team.. 
 
 - 🔭 I’m currently working on a Flutter Framework
 - 🌱 I’m currently learning Flutter Development
