@@ -2,14 +2,14 @@
 
 This is Muhammad Ali, i am a Student of Software Engineering at <a href="http://www.cityuniversity.edu.pk/" target="_blank">CUSIT Peshawar</a>. Passionate about Mobile Application development (Android & ios using Flutter) having good problem solving skills and ability to perform well in a team.. 
 
-- 🔭 I’m currently working on a Flutter Framework
 - 🌱 I’m currently learning Flutter Development
+- 🔭 I’m currently working on a Flutter Framework
 - 🤔 I’m looking for help with Flutter
-- 👯 I’m looking to work Remote work
-- 💬 Ask me about Flutter, Dart, C++
+- 👯 Available for Remote work
+- 💬 Ask me about Flutter, Dart, Firebase, C++
 - 📫 How to reach me: [Email](mailto:muhammadali907080@gmail.com), [LinkedIn](https://www.linkedin.com/in/muhammad-ali-ali7777)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: If I'm not found here , I'll most probably be working on Flutter Framework or other Language
+- ⚡ Fun fact: If I'm not found here , I'll most probably be working on Flutter or new technologies
 
 ## ⚡ Technologies
 
