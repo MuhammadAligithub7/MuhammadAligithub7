@@ -1,11 +1,11 @@
 ### Hi there <img src="https://github.com/Haseeb1604/Haseeb1604/blob/main/wave.gif" width='26px'/>
 
-This is Muhammad Ali, i am a Student of Software Engineering Program at <a href="http://www.cityuniversity.edu.pk/" target="_blank">CUSIT Peshawar</a> and Passionate about Mobile Application development (Android & ios using Flutter) having good problem solving skills and ability to perform well in a team.. 
+This is Muhammad Ali, i am a Student of Software Engineering Program at <a href="http://www.cityuniversity.edu.pk/" target="_blank">CUSIT Peshawar</a>. i am Passionate about Mobile Application development (Android & ios using Flutter) having good problem solving skills and ability to perform well in a team.. 
 
 - 🔭 I’m currently working on a Flutter Framework
 - 🌱 I’m currently learning Flutter Development
-- 👯 I’m looking to work Remote work
 - 🤔 I’m looking for help with Flutter
+- 👯 I’m looking to work Remote work
 - 💬 Ask me about Flutter, Dart, C++
 - 📫 How to reach me: [Email](mailto:muhammadali907080@gmail.com), [LinkedIn](https://www.linkedin.com/in/muhammad-ali-ali7777)
 - 😄 Pronouns: He/Him
