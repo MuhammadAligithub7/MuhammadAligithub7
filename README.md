@@ -12,11 +12,9 @@
   <a href="https://github.com/MuhammadAligithub7">
     <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Github Badge"/>
   </a>
-  <br>
   <a href="https://www.youtube.com/channel/UCaN7winDRxYxvP1sgr25wbw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-    <br>
    <a href="https://linkedin.com/in/mali9">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>     	
   </a>
