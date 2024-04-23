@@ -5,7 +5,7 @@
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: muhammadali907080@gmail.com
 - 😄 My website: https://muhammadali7.netlify.app/
-- 
+
   
 ### Connect with me:
 <div id="badges">
