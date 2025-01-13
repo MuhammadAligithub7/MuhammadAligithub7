@@ -1,7 +1,6 @@
  <h1 align="center">Hi 👋, I'm Muhammad Ali</h1>
 
-- 🔭 I’m currently working on Flutter and Dart
-- 🌱 I’m currently learning APIs and Firebase 
+- 🔭 I’m a Flutter Developer
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: muhammadali907080@gmail.com
 - 😄 My website: https://muhammadali7.netlify.app/
